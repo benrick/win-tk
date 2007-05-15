@@ -25,6 +25,7 @@ namespace Common
 
         // Operators
         bool operator==(const Point&);
+        bool operator!=(const Point&);
     };
 };
 

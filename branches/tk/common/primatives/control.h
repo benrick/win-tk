@@ -2,7 +2,7 @@
     win-tk Project
     Daniel A. White
 
-    common/control.h
+    common/primatives/control.h
 */
 
 #ifndef TK_CONTROL
